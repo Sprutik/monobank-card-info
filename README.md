@@ -1,6 +1,7 @@
 # Monobank Card Info
 
 A Next.js application that allows you to view your Monobank card transactions using the Monobank API.
+The app was coded in 30 minutes using cursor.
 
 ## Features
 
